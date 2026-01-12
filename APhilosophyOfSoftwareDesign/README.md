@@ -44,3 +44,17 @@
 
 ### 4.5 Shallow modules
 
+### 4.6 Classitis
+ - Controversal tip, "classes should be small"
+
+### 4.7  Examples: Java and Unix I/O
+
+### 4.8  Conclusion
+
+
+## Chapter 5 - Information Hiding (and Leakage)
+
+### 5.1 Information hiding
+
+### 5.2 Information leakage
+
