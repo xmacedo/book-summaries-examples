@@ -57,4 +57,19 @@
 ### 5.1 Information hiding
 
 ### 5.2 Information leakage
+- The opposite of information hiding is information leakage. Information leakage occurs when a design decision is reflected in multiple modules. This creates a dependency between the modules: any change to that design decision will require changes to all of the involved modules.
 
+- Information leakage occurs when the same knowledge is used in multiple places, such as two different classes that both understand the format of a particular type of file.
+
+### 5.3 Temporal decomposition
+
+- In temporal decomposition, execution order is reflected in the code structure: operations that happen at different times are in different methods or classes. If the same knowledge is used at different points in execution, it gets encoded in multiple places, resulting in information leakage.
+
+### 5.4 Example: HTTP server
+
+### 5.5 Example: too many classes
+
+### 5.6 Example: HTTP parameter handling
+
+
+### 5.7  Example: defaults in HTTP responses
