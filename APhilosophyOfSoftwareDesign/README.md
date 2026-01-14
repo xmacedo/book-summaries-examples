@@ -71,5 +71,17 @@
 
 ### 5.6 Example: HTTP parameter handling
 
-
 ### 5.7  Example: defaults in HTTP responses
+
+### 5.8  Information hiding within a class
+
+### 5.9  Taking it too far
+
+### 5.10  Conclusion
+- Information hiding and deep modules are closely related.
+
+## Chapter 6 General-Purpose Modules are Deeper
+
+### 6.1 Make classes somewhat general-purpose
+
+### 6.2 Example: storing text for an editor
