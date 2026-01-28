@@ -85,3 +85,13 @@
 ### 6.1 Make classes somewhat general-purpose
 
 ### 6.2 Example: storing text for an editor
+
+### 6.3 A moe general-purpose API
+
+### 6.4 Gererality leads to better information hiding
+
+### 6.5 Questions to ask yourself
+
+### 6.6 Push specialization upwards (and downwards!)
+
+### 6.7 Example: editor indo mechanism
