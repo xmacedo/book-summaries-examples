@@ -94,4 +94,7 @@
 
 ### 6.6 Push specialization upwards (and downwards!)
 
-### 6.7 Example: editor indo mechanism
+### 6.7 Example: editor undo mechanism
+
+### 6.8 Eliminate special cases in code
+
