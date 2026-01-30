@@ -98,3 +98,5 @@
 
 ### 6.8 Eliminate special cases in code
 
+### 6.9 Conclusion
+- Unnecessary specialization, is a significant contributor to software complexity. Specialization can’t be eliminated completely, but with good design you should be able to reduce it significantly and separate specialized code from general-purpose code.
