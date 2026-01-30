@@ -100,3 +100,8 @@
 
 ### 6.9 Conclusion
 - Unnecessary specialization, is a significant contributor to software complexity. Specialization can’t be eliminated completely, but with good design you should be able to reduce it significantly and separate specialized code from general-purpose code.
+
+## Chapter 7 - Different Layer, Different Abstraction
+> Software systems are composed in layers, where higher layers use the facilities provided by lower layers.
+
+### 7.1 Pass-through methods
