@@ -105,3 +105,5 @@
 > Software systems are composed in layers, where higher layers use the facilities provided by lower layers.
 
 ### 7.1 Pass-through methods
+
+### 7.2 When is interface duplication OK?
