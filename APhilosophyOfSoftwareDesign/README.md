@@ -107,3 +107,5 @@
 ### 7.1 Pass-through methods
 
 ### 7.2 When is interface duplication OK?
+
+### 7.3 Decorators
