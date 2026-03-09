@@ -113,3 +113,6 @@
 ### 7.4 Interface versus implementation
 
 ### 7.5 Pass-through variables
+
+### 7.6 Conclusion
+
