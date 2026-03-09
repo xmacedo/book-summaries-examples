@@ -109,3 +109,7 @@
 ### 7.2 When is interface duplication OK?
 
 ### 7.3 Decorators
+
+### 7.4 Interface versus implementation
+
+### 7.5 Pass-through variables
