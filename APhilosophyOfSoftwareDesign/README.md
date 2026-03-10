@@ -117,3 +117,13 @@
 ### 7.6 Conclusion
 
 ## Chapter 8 - Pull complexity downwards
+
+### 8.1 Example: editor text class
+
+### 8.2 Example: configuration paramaters
+
+### 8.3 Taking it too far
+
+### 8.4 Conclusion
+
+## Chapter 9 - Better Toegether Or Better Apart?
