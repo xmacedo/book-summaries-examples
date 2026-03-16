@@ -127,3 +127,5 @@
 ### 8.4 Conclusion
 
 ## Chapter 9 - Better Toegether Or Better Apart?
+
+### 9.1 Bring together if information is shared
