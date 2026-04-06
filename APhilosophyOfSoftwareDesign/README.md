@@ -129,3 +129,11 @@
 ## Chapter 9 - Better Toegether Or Better Apart?
 
 ### 9.1 Bring together if information is shared
+
+### 9.2 Bring together if it will simplify the interface
+
+### 9.3 Bring together to eliminate duplication
+
+### 9.4 Separate general-purpose and special-purpose code
+
+### 9.5 Example: insertion cursor and selection
